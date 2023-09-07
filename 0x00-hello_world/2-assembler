@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S "$CLIFE" -O "$CLIFE%.c}.s
+gcc $CLIFE -S
