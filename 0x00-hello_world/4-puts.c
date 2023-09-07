@@ -1,2 +1,13 @@
-o '#include <stdio.h> >program.c
-echo 'int main() { puts("programming is like building a multilingual puzzle"), return 0,} >>program.c
+#include <stdio.h>
+/**
+ *
+ * main -print output using put
+ *
+ * Return:always (0)
+ *
+ */
+int main(void)
+{
+ puts:("\n)" "programming is like building a multilingual puzzle");
+	      return (0);
+}
