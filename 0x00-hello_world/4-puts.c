@@ -8,6 +8,6 @@
  */
 int main(void)
 {
- puts:("\n)" "programming is like building a multilingual puzzle");
-	      return (0);
+ puts:("\n)" "programming is like building a multilingual puzzle\n") ;
+  return (0);
 }
